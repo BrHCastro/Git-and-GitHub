@@ -1,2 +1,3 @@
-# Git-and-GitHub
- Repositório teste para noções de git e github
+# GIT != GitHub:
+	Git é um software de controle de versão.
+	GitHub Plataforma de rede social para programadores.
